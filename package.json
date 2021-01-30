@@ -2,6 +2,8 @@
     "name": "tms-recommended",
     "displayName": "TM's Recommended",
     "description": "My recommended VS Code Extensions",
+    "publisher": "tmuniversal",
+    "author": {"name": "TM Universal", "email": "me@tmuniversa.eu", "url": "https://tmuniversal.eu"},
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.52.0"
