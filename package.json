@@ -8,6 +8,7 @@
         "email": "me@tmuniversa.eu",
         "url": "https://tmuniversal.eu"
     },
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/TMUniversal/vscode-extension-recommended.git"
