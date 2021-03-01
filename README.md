@@ -33,6 +33,8 @@ By installing TM's Recommended Extensions, the following extensions are installe
   - in-editor previews (i.e. bold text is made bold, etc.)
 - [📦 Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme)
   - Amazing icon theme for files and folders, compatible with most languages and frameworks
+- [📦 Material Product Icons](https://marketplace.visualstudio.com/items?itemName=pkief.material-product-icons)
+  - Product Icon Theme matching the above editor theme.
 - [📦 One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.material-theme) (formerly Material Theme)
   - *Atom's iconic One Dark theme for Visual Studio Code*
   - Amazing-looking greyish dark theme

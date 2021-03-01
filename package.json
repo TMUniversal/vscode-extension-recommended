@@ -3,7 +3,11 @@
     "displayName": "TM's Recommended",
     "description": "My recommended VS Code Extensions",
     "publisher": "tmuniversal",
-    "author": {"name": "TM Universal", "email": "me@tmuniversa.eu", "url": "https://tmuniversal.eu"},
+    "author": {
+        "name": "TM Universal",
+        "email": "me@tmuniversa.eu",
+        "url": "https://tmuniversal.eu"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/TMUniversal/vscode-extension-recommended.git"
@@ -15,7 +19,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "aaron-bond.better-comments",
         "coenraads.bracket-pair-colorizer-2",
         "streetsidesoftware.code-spell-checker",
@@ -26,6 +30,7 @@
         "ms-vsliveshare.vsliveshare",
         "yzhang.markdown-all-in-one",
         "pkief.material-icon-theme",
+        "pkief.material-product-icons",
         "zhuangtongfa.material-theme",
         "quicktype.quicktype",
         "christian-kohler.path-intellisense",
