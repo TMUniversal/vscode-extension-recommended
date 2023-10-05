@@ -1,0 +1,20 @@
+trigger:
+  tags:
+    include:
+    - v*
+
+pool:
+  vmImage: 'windows-latest'
+
+variables:
+  VSCE_TOKEN: $(vsce_token)
+
+steps:
+- task: NodeTool@0
+  inputs:
+    versionSpec: '18.x'
+  displayName: 'Install Node.js'
+
+- script: |
+    npx --yes @vscode/vsce publish -p $(VSCE_TOKEN)
+  displayName: 'Publish extension to Marketplace'
