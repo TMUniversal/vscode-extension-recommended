@@ -1,42 +1,42 @@
 {
-    "name": "tms-recommended",
-    "displayName": "TM's Recommended",
-    "description": "My recommended VS Code Extensions",
-    "publisher": "tmuniversal",
-    "author": {
-        "name": "TM Universal",
-        "email": "me@tmuniversa.eu",
-        "url": "https://tmuniversal.eu"
-    },
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/TMUniversal/vscode-extension-recommended.git"
-    },
-    "version": "0.0.4",
-    "engines": {
-        "vscode": "^1.52.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "aaron-bond.better-comments",
-        "streetsidesoftware.code-spell-checker",
-        "icrawl.discord-vscode",
-        "mikestead.dotenv",
-        "sleistner.vscode-fileutils",
-        "eamodio.gitlens",
-        "ms-vsliveshare.vsliveshare",
-        "yzhang.markdown-all-in-one",
-        "pkief.material-icon-theme",
-        "pkief.material-product-icons",
-        "zhuangtongfa.material-theme",
-        "quicktype.quicktype",
-        "christian-kohler.path-intellisense",
-        "esbenp.prettier-vscode",
-        "alefragnani.project-manager",
-        "redhat.vscode-yaml",
-        "VisualStudioExptTeam.vscodeintellicode"
-    ]
+  "name": "tms-recommended",
+  "displayName": "TM's Recommended",
+  "description": "My recommended VS Code Extensions",
+  "publisher": "tmuniversal",
+  "author": {
+    "name": "TM Universal",
+    "email": "me@tmuniversa.eu",
+    "url": "https://tmuniversal.eu"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TMUniversal/vscode-extension-recommended.git"
+  },
+  "version": "0.0.4",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "streetsidesoftware.code-spell-checker",
+    "icrawl.discord-vscode",
+    "mikestead.dotenv",
+    "sleistner.vscode-fileutils",
+    "eamodio.gitlens",
+    "ms-vsliveshare.vsliveshare",
+    "yzhang.markdown-all-in-one",
+    "pkief.material-icon-theme",
+    "pkief.material-product-icons",
+    "zhuangtongfa.material-theme",
+    "quicktype.quicktype",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "alefragnani.project-manager",
+    "redhat.vscode-yaml",
+    "VisualStudioExptTeam.vscodeintellicode"
+  ]
 }

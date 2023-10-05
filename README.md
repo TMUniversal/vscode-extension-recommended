@@ -12,7 +12,7 @@ By installing TM's Recommended Extensions, the following extensions are installe
   - ~~Coloured bracket pairs~~ Now included with VSCode (see the [v1.67 release notes](https://code.visualstudio.com/updates/v1_67#_bracket-pair-colorization-enabled-by-default))
 - [📦 Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [📦 Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
-  - [Discord](https://discord.com/) *rich presence* information about the project you are editing
+  - [Discord](https://discord.com/) _rich presence_ information about the project you are editing
   - Support for lots of languages
   - Custom message support
 - [📦 DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
@@ -25,7 +25,7 @@ By installing TM's Recommended Extensions, the following extensions are installe
   - authorship information
   - repository management
 - [📦 Live Share](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare)
-  -  Real-time collaboration in your editor
+  - Real-time collaboration in your editor
 - [📦 Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
   - Markdown tools like syntax highlighting,
   - keyboard shortcuts
@@ -36,7 +36,7 @@ By installing TM's Recommended Extensions, the following extensions are installe
 - [📦 Material Product Icons](https://marketplace.visualstudio.com/items?itemName=pkief.material-product-icons)
   - Product Icon Theme matching the above editor theme.
 - [📦 One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.material-theme) (formerly Material Theme)
-  - *Atom's iconic One Dark theme for Visual Studio Code*
+  - _Atom's iconic One Dark theme for Visual Studio Code_
   - Amazing-looking greyish dark theme
 - [📦 Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
   - Convert JSON files to type definitions, supports many common languages
@@ -52,7 +52,6 @@ By installing TM's Recommended Extensions, the following extensions are installe
 - [📦 Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
   - AI-based development features like auto-complete suggestions for Python, JS/TS and Java
 
-
 ## Other Recommended Extensions / Extension Packs
 
 Generic:
@@ -63,5 +62,3 @@ JavaScript Development:
 
 - [📦 Node.js Extension Pack](https://marketplace.visualstudio.com/items?itemName=waderyan.nodejs-extension-pack)
 - [📦 ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-
-
