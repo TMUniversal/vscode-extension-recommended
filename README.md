@@ -8,8 +8,8 @@ By installing TM's Recommended Extensions, the following extensions are installe
 
 - [📦 Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
   - Human friendly, coloured comments
-- [📦 Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer-2)
-  - Coloured bracket pairs
+- ~~[📦 Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer-2)~~
+  - ~~Coloured bracket pairs~~ Now included with VSCode (see the [v1.67 release notes](https://code.visualstudio.com/updates/v1_67#_bracket-pair-colorization-enabled-by-default))
 - [📦 Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [📦 Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
   - [Discord](https://discord.com/) *rich presence* information about the project you are editing

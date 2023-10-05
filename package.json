@@ -22,7 +22,6 @@
     ],
     "extensionPack": [
         "aaron-bond.better-comments",
-        "coenraads.bracket-pair-colorizer-2",
         "streetsidesoftware.code-spell-checker",
         "icrawl.discord-vscode",
         "mikestead.dotenv",
